@@ -15,3 +15,12 @@ This project provides an **optimized NLP pipeline** using **SpaCy** and **TextBl
    ```bash
    git clone https://github.com/yourusername/nlp-spacy.git
    cd nlp-spacy
+
+   🔥 Applications
+Chatbots 🤖
+
+Search Engines 🔎
+
+Recommendation Systems 🎯
+
+Sentiment Analysis 📊
